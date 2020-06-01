@@ -1,6 +1,6 @@
 # Cluster-Cluster-Aggregation
 
-Graphical simulation of cluster cluster aggregation (CCA) using C#.
+Graphical simulation of cluster cluster aggregation (CCA) with different diffusity using C#.
 
 
 
